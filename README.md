@@ -1,1 +1,0 @@
-# equipo22-fundbio.github.io
