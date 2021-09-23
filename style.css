@@ -1599,6 +1599,8 @@ input:required {
     visibility: visible; }
     .single-portfolio-content:hover .hover-content a, .single-portfolio-content:focus .hover-content a {
       margin-top: -26px; }
+ .container color {
+     background-color: #EFF7D0; }
 
 /* :: 16.0 Contact CSS */
 .alime-contact-form .form-control {
